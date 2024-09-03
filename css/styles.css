@@ -1,0 +1,23 @@
+/* styles.css */
+
+.banner {
+    background-size: cover;
+    background-position: center;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.contacto form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
